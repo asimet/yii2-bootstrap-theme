@@ -1,0 +1,22 @@
+{
+    "name": "segic/usach-theme-yii2",
+    "description": "Theme Usach for Yii 2.0 WebSite",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "adminlte", "theme"],
+    "require": {
+        "yiisoft/yii2": "2.*",
+        "yiisoft/yii2-bootstrap": "2.*",
+        "rmrevin/yii2-fontawesome": "~2.9"
+    },
+    "license": "GPL2",
+    "authors": [{
+            "name": "Gilles Grandguillaume",
+            "email": "gilles.grandguillaume@segic.usach.cl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "segic\\theme\\": ""
+        }
+    }
+}
