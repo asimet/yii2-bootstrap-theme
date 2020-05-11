@@ -13,7 +13,7 @@ Install Composer (composer.json)
             [...]
             {
                 "type": "vcs",
-                "url": "http://composer:2ZJ3axPvqU5Pp2N2pa89@gitlab.segic.cl/segic/usach-theme-yii2.git"
+                "url": ""
             }
         ],
         "require": {
